@@ -1,0 +1,1 @@
+Trying to upload artifacts to nexus using cURL fro Jenkins
